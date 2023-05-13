@@ -42,7 +42,7 @@ A farmer's centric Web App. It's a smart web-built app for farmers which recomme
 
 # screenshots of the website
 
-### qr code picture :
+### Scan the QR code picture :
 ![Colorful Modern Happy Holi Poster](https://user-images.githubusercontent.com/91418287/226484318-a1b4d43b-976b-45c4-8704-61030321de0a.png)
 
 ### our website homepage

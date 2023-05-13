@@ -9,6 +9,7 @@ The farmer engaged in farming and living in villages don't have affordable and b
 ## Agriculture and food security
 - Governance
 - Digital inclusion
+- Covering the points Accessibility & Adaption
 
 
 ## A Web App for farmers to improve the production of their crops 

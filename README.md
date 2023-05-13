@@ -38,7 +38,7 @@ A farmer's centric Web App. It's a smart web-built app for farmers which recomme
 - npm install
 - npm run start
 
-# link to the working directory:  [AnnCode](https://anna-code.vercel.app/)
+# link to the working directory:  [AnnaCode](https://anna-code.vercel.app/)
 
 # screenshots of the website
 
